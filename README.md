@@ -16,13 +16,11 @@
 ## 🎥 Project Demonstration
 
 <div align="center">
-
-<a href="https://github.com/user-attachments/assets/e0b97f46-4d75-4d59-a3ae-f5fe2e959bb3">
-  <strong>▶️ Watch the Pick and Place System Demo</strong>
-</a>
-
+  <video src="https://github.com/user-attachments/assets/e0b97f46-4d75-4d59-a3ae-f5fe2e959bb3"
+         controls
+         width="80%">
+  </video>
 </div>
-
 ## 📌 Overview
 
 This project demonstrates an automated material-handling system controlled by an Arduino-compatible microcontroller. It uses three conveyor stages, pneumatic cylinders, a rodless actuator, suction, and a gripper to perform sequential pick-and-place operations.
